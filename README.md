@@ -1,3 +1,9 @@
+# Sample Deprecated & Replaced
+
+This sample has officially been deprecated and replaced with the "[My Contacts](https://github.com/xamarin/app-contacts)" sample application that showcases Xamarin.Forms and an ASP.NET Core backend.
+
+This repo is left here for historical purposes, back links, and is read-only.
+
 # Acquaint
 
 A simple Xamarin app named *Acquaint*. The app is a simple list of contacts, each of which can be viewed in a detail screen and modified in an edit screen. It runs on iOS 9+, Android 4.2+, and UWP (mobile and desktop).
